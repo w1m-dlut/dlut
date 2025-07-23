@@ -14,6 +14,9 @@ Conditional Diffusion Models]().
 ## Dataset
 CAMO,CODV10,NC4K from [COD (Camouflaged Object Detection) Dataset](https://github.com/lartpang/awesome-segmentation-saliency-dataset#camouflaged-object-detection-cod)
 
+## Tips
+This project made a few minor modifications to the original project code, and also disabled wandb.
+
 ## Citation
 
 [//]: # (>📋  Pick a licence and describe how to contribute to your code repository. )
